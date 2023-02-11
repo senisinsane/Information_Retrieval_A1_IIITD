@@ -1,0 +1,2 @@
+# Information_Retrieval_A1_IIITD
+Inverted index implementation
